@@ -59,7 +59,7 @@
     "husky": "^8.0.1",
     "pinst": "^3.0.0",
     "prettier": "2.7.1",
-    "react-native": "^0.70.2",
+    "react-native": "^0.70.6",
     "stylelint": "^14.13.0",
     "stylelint-config-prettier": "^9.0.3",
     "stylelint-config-recommended": "^9.0.0",
