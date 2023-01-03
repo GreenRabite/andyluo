@@ -3,7 +3,7 @@ import type { GatsbyConfig } from "gatsby"
 const config: GatsbyConfig = {
   siteMetadata: {
     title: `Gatsby NES`,
-    siteUrl: ``,
+    siteUrl: `https://jmau111.github.io/gatsby-nes`,
     description: `powered by NES.CSS`,
     author: `Julien Maury`,
   },
