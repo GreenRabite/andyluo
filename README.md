@@ -47,17 +47,14 @@ Don't remove `import "nes.css/css/nes.min.css";` I add in the main Layout  `./sr
 Open `./gatsby-config.ts` and modify:
 
 ```js
-pathPrefix: `/gatsby-nes`,
 siteMetadata: {
   title: `Gatsby nes`,
   author: `Julien Maury`,
   about: `A Gatsby Theme using typescript and Nostalgic NES css`,
   description: `A nostalgic Gatsby theme`,
-  siteUrl: `https://demos.julien-maury.dev`,
+  siteUrl: ``,
 },
 ```
-
-I use `pathPrefix` because I host the demo in a subfolder, but **you don't have to use this parameter if your production URL is a root URL**. 
 
 ## Google Analytics
 
