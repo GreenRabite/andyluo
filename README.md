@@ -2,7 +2,7 @@
 
 A theme built with Typescript, Gatsby, and [NES.css](https://nostalgic-css.github.io/NES.css/) for a One-page layout.
 
-[See live demo](https://demos.julien-maury.dev/gatsby-nes)
+[See live demo](https://jmau111.github.io/gatsby-nes)
 
 No option, but it's easy to start.
 
