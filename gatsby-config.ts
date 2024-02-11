@@ -3,9 +3,9 @@ import type { GatsbyConfig } from "gatsby"
 const config: GatsbyConfig = {
   siteMetadata: {
     title: `Andy Luo`,
-    url: `https://greenrabite.github.io`,
-    siteUrl: `https://greenrabite.github.io`,
-    description: `powered by NES.CSS`,
+    url: `https://greenrabite.github.io/andyluo`,
+    siteUrl: `https://greenrabite.github.io/andyluo`,
+    description: `personal blog & site`,
     author: `Andy Luo`,
   },
   plugins: [

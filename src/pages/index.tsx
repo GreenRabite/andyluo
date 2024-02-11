@@ -58,9 +58,7 @@ const IndexPage = ({ data: { site } }: PageProps<DataProps>) => {
         author={site.siteMetadata.author}
       />
       <Topic title="About" className="about">
-        <p>
-          Small demo using Gatsby and NES.css, <br />a NES-style (8bit-like) CSS Framework.
-        </p>
+        <p>Personal Website and Mindless Blather</p>
       </Topic>
       <Showcase title="Nintendo characters">
         <IconList>
@@ -85,7 +83,7 @@ const IndexPage = ({ data: { site } }: PageProps<DataProps>) => {
           <i className="nes-octocat animate"></i>
         </IconList>
       </Showcase>
-      <Showcase title="Icons - social networks">
+      <Showcase title="Social Networks">
         <IconList>
           {listSns.map(icon => (
             <i key={icon} className={`nes-icon ${icon} is-large`}></i>

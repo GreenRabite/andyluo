@@ -2,9 +2,9 @@ import * as React from "react"
 
 const sns = [
   {
-    text: `Twitter`,
+    text: `X`,
     icon: `twitter`,
-    url: `https://twitter.com/gatsbyjs/`,
+    url: `https://twitter.com/GreenRabite`,
   },
   {
     text: `LinkedIn`,
@@ -30,7 +30,7 @@ const Social = () => {
       <ul className="share">
         {sns.map(link => (
           <li key={link.url}>
-            <a href={link.url}>
+            <a href={link.url} target="_blank" rel="noreferrer">
               <i aria-hidden="true" className={`${link.icon} nes-icon`}></i>
             </a>
           </li>
