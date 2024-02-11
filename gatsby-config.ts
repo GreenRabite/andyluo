@@ -3,6 +3,7 @@ import type { GatsbyConfig } from "gatsby"
 const config: GatsbyConfig = {
   siteMetadata: {
     title: `Andy Luo`,
+    url: `https://greenrabite.github.io/gatsby-nes/`,
     siteUrl: `greenrabite.github.io/gatsby-nes/`,
     description: `powered by NES.CSS`,
     author: `Andy Luo`,
