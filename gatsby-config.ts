@@ -2,10 +2,10 @@ import type { GatsbyConfig } from "gatsby"
 
 const config: GatsbyConfig = {
   siteMetadata: {
-    title: `Gatsby NES`,
-    siteUrl: `https://jmau111.github.io/gatsby-nes`,
+    title: `Andy Luo`,
+    siteUrl: `TBD`,
     description: `powered by NES.CSS`,
-    author: `Julien Maury`,
+    author: `Andy Luo`,
   },
   plugins: [
     `gatsby-plugin-preact`,

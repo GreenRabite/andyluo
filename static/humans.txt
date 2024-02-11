@@ -6,18 +6,18 @@
                                                       
 
 /* TEAM */
-Developer: [Your name]
-GitHub: [your GitHub handle]
+Developer: Andy Luo
+GitHub: @greenrabite
 
 /* THANKS */
 Gatsby
 Node
 
 /* SITE */
-Last update: 2021
+Last update: 2024
 Standards: HTML, CSS, SASS, JavaScript, TypeScript, React
 Components: humans-generator
 Softwares: Visual Studio Code
 
 /* NOTE */
-Made in [Your city]
+Made in San Diego
