@@ -4,7 +4,7 @@ const config: GatsbyConfig = {
   siteMetadata: {
     title: `Andy Luo`,
     url: `https://greenrabite.github.io`,
-    siteUrl: `greenrabite.github.io/gatsby-nes/`,
+    siteUrl: `https://greenrabite.github.io`,
     description: `powered by NES.CSS`,
     author: `Andy Luo`,
   },
